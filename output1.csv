@@ -299,3 +299,98 @@ productId,productName,rating,price,discount,positiveReviews,negativeReviews,tota
 298,Ring Stick Up Cam Battery fc,4,37,50,49,22,71,2023-06-24T05:33:09.615Z,Books,Flipkart,74,15,28,117
 299,KitchenAid Artisan Series Stand Mixer fc,4,97,19,42,86,128,2023-06-24T05:33:09.615Z,Electronic,Flipkart,32,85,29,146
 300,DJI Osmo Pocket Handheld Camera fc,4,1,22,59,52,111,2023-06-24T05:33:09.615Z,Daily life,Flipkart,92,75,47,214
+301,Toothbrush,3,50,10,25,5,30,2023-06-24T05:33:09.613Z,Accessories,Walmart,10,15,5,30
+302,Coffee Mug,4,75,15,35,2,37,2023-06-24T05:33:09.613Z,Kitchen,Walmart,20,10,7,37
+303,Umbrella,2,30,5,10,8,18,2023-06-24T05:33:09.613Z,Outdoor,Walmart,5,8,5,18
+304,Towel,5,100,20,40,0,40,2023-06-24T05:33:09.613Z,Bathroom,Walmart,15,15,10,40
+305,Shampoo,3,55,8,18,3,21,2023-06-24T05:33:09.613Z,Personal Care,Walmart,8,7,6,21
+306,Socks,1,20,2,3,10,13,2023-06-24T05:33:09.613Z,Apparel,Walmart,1,5,7,13
+307,Pen,4,80,12,30,1,31,2023-06-24T05:33:09.613Z,Office Supplies,Walmart,15,12,4,31
+308,Notebook,2,40,6,12,7,19,2023-06-24T05:33:09.613Z,Office Supplies,Walmart,3,8,8,19
+309,Keychain,5,95,18,35,0,35,2023-06-24T05:33:09.613Z,Accessories,Walmart,10,15,10,35
+310,Hand Soap,3,60,10,20,2,22,2023-06-24T05:33:09.613Z,Bathroom,Walmart,7,8,7,22
+311,Spoon,1,25,3,5,12,17,2023-06-24T05:33:09.613Z,Kitchen,Walmart,3,6,8,17
+312,Fork,4,85,14,28,4,32,2023-06-24T05:33:09.613Z,Kitchen,Walmart,12,12,8,32
+313,Plate,2,35,5,15,6,21,2023-06-24T05:33:09.613Z,Kitchen,Walmart,5,7,9,21
+314,Glass,5,105,22,38,0,38,2023-06-24T05:33:09.613Z,Kitchen,Walmart,18,15,5,38
+315,Toilet Paper,3,65,10,22,3,25,2023-06-24T05:33:09.613Z,Bathroom,Walmart,10,9,6,25
+316,Hairbrush,1,22,3,4,11,15,2023-06-24T05:33:09.613Z,Personal Care,Walmart,2,4,9,15
+317,Comb,4,90,16,32,2,34,2023-06-24T05:33:09.613Z,Personal Care,Walmart,10,15,9,34
+318,Mirror,2,42,7,14,5,19,2023-06-24T05:33:09.613Z,Home Decor,Walmart,4,6,9,19
+319,Tissue Box,5,110,25,42,0,42,2023-06-24T05:33:09.613Z,Home Decor,Walmart,20,15,7,42
+320,Soap Dispenser,3,70,12,26,4,30,2023-06-24T05:33:09.613Z,Bathroom,Walmart,12,10,8,30
+321,Cup,1,18,2,3,8,11,2023-06-24T05:33:09.613Z,Kitchen,Walmart,2,3,6,11
+322,Scissors,4,88,14,30,3,33,2023-06-24T05:33:09.613Z,Office Supplies,Walmart,14,14,5,33
+323,Dish Soap,2,38,6,10,7,17,2023-06-24T05:33:09.613Z,Household,Walmart,5,6,6,17
+324,Laundry Detergent,5,102,20,40,1,41,2023-06-24T05:33:09.613Z,Household,Walmart,17,18,6,41
+325,Trash Bag,3,58,10,22,4,26,2023-06-24T05:33:09.613Z,Household,Walmart,9,8,9,26
+326,Broom,1,23,3,4,9,13,2023-06-24T05:33:09.613Z,Household,Walmart,3,3,7,13
+327,Dustpan,4,82,12,29,2,31,2023-06-24T05:33:09.613Z,Household,Walmart,13,12,6,31
+328,Alarm Clock,2,37,6,11,6,17,2023-06-24T05:33:09.613Z,Electronics,Walmart,4,5,8,17
+329,Trash Can,5,98,18,37,0,37,2023-06-24T05:33:09.613Z,Household,Walmart,16,15,6,37
+330,Paper Towels,3,63,10,24,3,27,2023-06-24T05:33:09.613Z,Household,Walmart,11,9,7,27
+331,Frying Pan,1,28,3,4,10,14,2023-06-24T05:33:09.613Z,Kitchen,Walmart,3,5,6,14
+332,Knife,4,87,14,31,2,33,2023-06-24T05:33:09.613Z,Kitchen,Walmart,14,13,6,33
+333,Cutting Board,2,39,7,12,7,19,2023-06-24T05:33:09.613Z,Kitchen,Walmart,5,6,8,19
+334,Bed Sheets,5,106,22,38,0,38,2023-06-24T05:33:09.613Z,Bedroom,Walmart,18,17,6,38
+335,Pillow,3,68,12,28,4,32,2023-06-24T05:33:09.613Z,Bedroom,Walmart,11,10,11,32
+336,Blanket,1,21,2,3,10,13,2023-06-24T05:33:09.613Z,Bedroom,Walmart,1,6,6,13
+337,Toothpaste,4,80,12,30,1,31,2023-06-24T05:33:09.613Z,Personal Care,Walmart,15,12,4,31
+338,Candle,2,40,6,12,7,19,2023-06-24T05:33:09.613Z,Home Decor,Walmart,3,8,8,19
+339,Hanger,5,95,18,35,0,35,2023-06-24T05:33:09.613Z,Home Decor,Walmart,10,15,10,35
+340,Dish Towel,3,60,10,20,2,22,2023-06-24T05:33:09.613Z,Kitchen,Walmart,7,8,7,22
+341,Mop,1,25,3,5,12,17,2023-06-24T05:33:09.613Z,Household,Walmart,3,6,8,17
+342,Bucket,4,85,14,28,4,32,2023-06-24T05:33:09.613Z,Household,Walmart,12,12,8,32
+343,Dish Rag,2,35,5,15,6,21,2023-06-24T05:33:09.613Z,Kitchen,Walmart,5,7,9,21
+344,Hand Towel,5,105,22,38,0,38,2023-06-24T05:33:09.613Z,Bathroom,Walmart,18,15,5,38
+345,Clock,3,65,10,22,3,25,2023-06-24T05:33:09.613Z,Home Decor,Walmart,10,9,6,25
+346,Tablecloth,1,22,3,4,11,15,2023-06-24T05:33:09.613Z,Home Decor,Walmart,2,4,9,15
+347,Hand Sanitizer,4,90,16,32,2,34,2023-06-24T05:33:09.613Z,Personal Care,Walmart,10,15,9,34
+348,Sunscreen,2,42,7,14,5,19,2023-06-24T05:33:09.613Z,Personal Care,Walmart,4,6,9,19
+349,Insect Repellent,5,110,25,42,0,42,2023-06-24T05:33:09.613Z,Outdoor,Walmart,20,15,7,42
+350,Hand Lotion,3,70,12,26,4,30,2023-06-24T05:33:09.613Z,Personal Care,Walmart,12,10,8,30
+351,Trash Bin,4,40,10,20,5,25,2023-06-24T05:33:09.613Z,Household,Walmart,12,7,6,25
+352,Toothbrush Holder,3,15,5,10,3,13,2023-06-24T05:33:09.613Z,Bathroom,Walmart,5,4,4,13
+353,Paper Plates,5,30,10,25,1,26,2023-06-24T05:33:09.613Z,Kitchen,Walmart,15,7,4,26
+354,Shower Curtain,4,20,5,15,2,17,2023-06-24T05:33:09.613Z,Bathroom,Walmart,7,6,4,17
+355,Dish Drainer,2,25,5,10,5,15,2023-06-24T05:33:09.613Z,Kitchen,Walmart,5,3,7,15
+356,Hand Mixer,4,60,15,40,2,42,2023-06-24T05:33:09.613Z,Kitchen,Walmart,20,15,7,42
+357,Face Towel,3,10,2,7,2,9,2023-06-24T05:33:09.613Z,Bathroom,Walmart,3,3,3,9
+358,Cookie Sheet,4,18,4,12,3,15,2023-06-24T05:33:09.613Z,Kitchen,Walmart,6,4,5,15
+359,Coat Hanger,2,12,3,5,4,9,2023-06-24T05:33:09.613Z,Home Decor,Walmart,3,2,4,9
+360,Blender,5,80,20,60,0,60,2023-06-24T05:33:09.613Z,Kitchen,Walmart,30,20,10,60
+361,Lunch Box,3,20,5,10,2,12,2023-06-24T05:33:09.613Z,Kitchen,Walmart,5,4,3,12
+362,Backpack,4,40,10,30,2,32,2023-06-24T05:33:09.613Z,Accessories,Walmart,15,10,7,32
+363,Handheld Vacuum,2,50,10,20,5,25,2023-06-24T05:33:09.613Z,Appliances,Walmart,12,8,5,25
+364,Bath Mat,5,15,3,10,1,11,2023-06-24T05:33:09.613Z,Bathroom,Walmart,5,4,2,11
+365,Cutlery Set,4,35,8,25,3,28,2023-06-24T05:33:09.613Z,Kitchen,Walmart,10,8,10,28
+366,Tea Kettle,3,30,5,15,2,17,2023-06-24T05:33:09.613Z,Kitchen,Walmart,7,5,5,17
+367,Desk Lamp,5,25,5,20,1,21,2023-06-24T05:33:09.613Z,Home Decor,Walmart,10,6,5,21
+368,Plunger,2,10,2,5,3,8,2023-06-24T05:33:09.613Z,Bathroom,Walmart,2,3,3,8
+369,Handheld Mixer,4,55,12,40,2,42,2023-06-24T05:33:09.613Z,Kitchen,Walmart,20,15,7,42
+370,Dish Soap Dispenser,3,18,3,12,2,14,2023-06-24T05:33:09.613Z,Kitchen,Walmart,6,4,4,14
+371,Clothes Hanger,4,8,2,5,2,7,2023-06-24T05:33:09.613Z,Home Decor,Walmart,2,2,3,7
+372,Stand Mixer,5,100,20,80,1,81,2023-06-24T05:33:09.613Z,Kitchen,Walmart,40,30,11,81
+373,Shower Caddy,3,15,4,10,1,11,2023-06-24T05:33:09.613Z,Bathroom,Walmart,5,4,2,11
+374,Cutting Mat,4,10,2,8,2,10,2023-06-24T05:33:09.613Z,Kitchen,Walmart,3,4,3,10
+375,Bin Liners,2,5,1,3,1,4,2023-06-24T05:33:09.613Z,Household,Walmart,1,1,2,4
+376,Ironing Board,5,25,5,20,1,21,2023-06-24T05:33:09.613Z,Home Decor,Walmart,10,6,5,21
+377,Kitchen Timer,3,8,2,6,1,7,2023-06-24T05:33:09.613Z,Kitchen,Walmart,2,2,3,7
+378,Bath Towel,4,12,3,9,2,11,2023-06-24T05:33:09.613Z,Bathroom,Walmart,3,3,5,11
+379,Spatula Set,2,7,1,4,2,6,2023-06-24T05:33:09.613Z,Kitchen,Walmart,1,1,4,6
+380,Clothes Dryer,5,200,30,150,1,151,2023-06-24T05:33:09.613Z,Appliances,Walmart,70,50,31,151
+381,Soap Dish,3,5,1,3,1,4,2023-06-24T05:33:09.613Z,Bathroom,Walmart,1,1,2,4
+382,Can Opener,4,10,2,7,1,8,2023-06-24T05:33:09.613Z,Kitchen,Walmart,3,2,3,8
+383,Cleaning Brush,2,5,1,3,1,4,2023-06-24T05:33:09.613Z,Household,Walmart,1,1,2,4
+384,Shower Mat,5,8,2,6,1,7,2023-06-24T05:33:09.613Z,Bathroom,Walmart,2,2,3,7
+385,Measuring Cups,3,6,1,4,2,5,2023-06-24T05:33:09.613Z,Kitchen,Walmart,1,1,3,5
+386,Drawer Organizer,4,12,2,8,1,9,2023-06-24T05:33:09.613Z,Home Decor,Walmart,3,3,3,9
+387,Spatula,2,3,1,2,1,3,2023-06-24T05:33:09.613Z,Kitchen,Walmart,1,1,1,3
+388,Cleaning Cloth,5,4,1,3,1,4,2023-06-24T05:33:09.613Z,Household,Walmart,1,1,2,4
+389,Shower Head,3,20,5,10,2,12,2023-06-24T05:33:09.613Z,Bathroom,Walmart,6,4,2,12
+390,Whisk,4,8,2,6,1,7,2023-06-24T05:33:09.613Z,Kitchen,Walmart,3,2,2,7
+391,Drying Rack,2,10,2,5,3,8,2023-06-24T05:33:09.613Z,Kitchen,Walmart,2,2,4,8
+392,Trash Bag Dispenser,5,15,3,10,1,11,2023-06-24T05:33:09.613Z,Household,Walmart,5,4,2,11
+393,Cookware Set,3,80,15,50,2,52,2023-06-24T05:33:09.613Z,Kitchen,Walmart,30,15,7,52
+394,Toilet Brush,4,5,1,4,1,4,2023-06-24T05:33:09.613Z,Bathroom,Walmart,2,1,1,4
+395,Measuring Spoons,2,4,1,2,1,3,2023-06-24T05:33:09.613Z,Kitchen,Walmart,1,1,1,3
