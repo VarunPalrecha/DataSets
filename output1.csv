@@ -1,0 +1,301 @@
+productId,productName,rating,price,discount,positiveReviews,negativeReviews,totalReviews,releaseDate,category,seller,sales_month1,sales_month2,sales_month3,sales_totalsales
+1,Echo Dot (4th generation) amz,2,26,29,12,19,31,2023-06-24T05:33:09.613Z,Electronic,Amazon,53,94,36,183
+2,Kindle Paperwhite amz,2,44,42,42,69,111,2023-06-24T05:33:09.613Z,Electronic,Amazon,95,67,48,210
+3,Apple AirPods Pro amz,0,66,29,44,7,51,2023-06-24T05:33:09.613Z,Home Decor,Amazon,64,60,15,139
+4,Instant Pot Duo amz,1,63,24,88,27,115,2023-06-24T05:33:09.613Z,Books,Amazon,8,59,17,84
+5,Fitbit Charge 4 amz,5,21,38,91,49,140,2023-06-24T05:33:09.613Z,Sports,Amazon,20,86,16,122
+6,Sony WH-1000XM4 Wireless Headphones amz,5,5,44,74,69,143,2023-06-24T05:33:09.613Z,Electronic,Amazon,40,2,42,84
+7,Samsung Galaxy Watch 4 amz,3,53,14,83,59,142,2023-06-24T05:33:09.613Z,Gaming,Amazon,55,46,72,173
+8,Nintendo Switch amz,4,60,36,27,14,41,2023-06-24T05:33:09.613Z,Books,Amazon,78,11,74,163
+9,Philips Sonicare DiamondClean Toothbrush amz,3,26,27,78,52,130,2023-06-24T05:33:09.613Z,Gaming,Amazon,100,28,41,169
+10,Bose QuietComfort 35 II Wireless Headphones amz,3,97,35,18,30,48,2023-06-24T05:33:09.613Z,Daily life,Amazon,64,48,73,185
+11,Roomba Robot Vacuum amz,1,31,14,23,41,64,2023-06-24T05:33:09.613Z,Home Decor,Amazon,29,30,30,89
+12,Anker PowerCore Portable Charger amz,5,24,44,73,79,152,2023-06-24T05:33:09.613Z,Sports,Amazon,90,87,83,260
+13,GoPro Hero9 Black amz,0,82,37,77,88,165,2023-06-24T05:33:09.613Z,Mobiles,Amazon,8,98,36,142
+14,JBL Flip 5 Portable Speaker amz,1,50,50,31,70,101,2023-06-24T05:33:09.613Z,Sports,Amazon,3,40,84,127
+15,Apple Watch Series 6 amz,4,71,29,63,3,66,2023-06-24T05:33:09.613Z,Electronic,Amazon,49,50,4,103
+16,Dyson Supersonic Hair Dryer amz,2,91,22,76,81,157,2023-06-24T05:33:09.614Z,Sports,Amazon,26,31,23,80
+17,Ring Video Doorbell Pro amz,1,94,38,91,67,158,2023-06-24T05:33:09.614Z,Traveling,Amazon,54,61,8,123
+18,Sony PlayStation 5 amz,3,52,19,21,67,88,2023-06-24T05:33:09.614Z,Gaming,Amazon,82,8,8,98
+19,Nikon D3500 DSLR Camera amz,1,26,41,51,27,78,2023-06-24T05:33:09.614Z,Electronic,Amazon,82,14,75,171
+20,Garmin Forerunner 245 GPS Running Watch amz,0,52,22,100,1,101,2023-06-24T05:33:09.614Z,Sports,Amazon,16,5,11,32
+21,NutriBullet Pro Blender amz,1,93,10,67,66,133,2023-06-24T05:33:09.614Z,Traveling,Amazon,92,85,99,276
+22,Microsoft Surface Pro 7 amz,5,84,12,2,30,32,2023-06-24T05:33:09.614Z,Gaming,Amazon,45,80,50,175
+23,Weber Spirit II E-310 Gas Grill amz,0,50,25,45,59,104,2023-06-24T05:33:09.614Z,Electronic,Amazon,73,44,36,153
+24,Vitamix 5200 Blender amz,3,4,19,55,93,148,2023-06-24T05:33:09.614Z,Books,Amazon,89,42,14,145
+25,TCL 55-Inch 4K Smart TV amz,2,47,16,56,13,69,2023-06-24T05:33:09.614Z,Traveling,Amazon,4,55,65,124
+26,AncestryDNA Genetic Testing Kit amz,4,73,21,99,29,128,2023-06-24T05:33:09.614Z,Mobiles,Amazon,6,34,80,120
+27,Cuisinart 14-Cup Food Processor amz,0,45,38,25,23,48,2023-06-24T05:33:09.614Z,Daily life,Amazon,50,67,94,211
+28,Instant Pot Duo Crisp + Air Fryer amz,0,97,46,12,64,76,2023-06-24T05:33:09.614Z,Books,Amazon,16,63,13,92
+29,KitchenAid Stand Mixer amz,0,9,11,80,27,107,2023-06-24T05:33:09.614Z,Gaming,Amazon,75,86,75,236
+30,Fitbit Versa 3 amz,5,23,26,75,82,157,2023-06-24T05:33:09.614Z,Toys,Amazon,16,51,90,157
+31,Apple iPad Air amz,0,48,43,91,68,159,2023-06-24T05:33:09.614Z,Beauty,Amazon,15,15,34,64
+32,Sony X900H 65-Inch TV amz,3,58,17,10,83,93,2023-06-24T05:33:09.614Z,Daily life,Amazon,90,45,78,213
+33,Garmin Venu 2S Fitness Smartwatch amz,4,46,46,6,27,33,2023-06-24T05:33:09.614Z,Toys,Amazon,79,46,41,166
+34,Oculus Quest 2 VR Headset amz,0,72,50,32,22,54,2023-06-24T05:33:09.614Z,Daily life,Amazon,78,100,83,261
+35,iRobot Braava Jet M6 Robot Mop amz,4,46,10,34,55,89,2023-06-24T05:33:09.614Z,Gaming,Amazon,46,12,26,84
+36,Samsung Galaxy Buds Pro amz,0,23,46,63,66,129,2023-06-24T05:33:09.614Z,Traveling,Amazon,28,75,77,180
+37,All-New Fire HD 10 Tablet amz,5,29,26,55,72,127,2023-06-24T05:33:09.614Z,Toys,Amazon,39,54,62,155
+38,Beats Solo Pro Wireless Headphones amz,4,22,25,19,39,58,2023-06-24T05:33:09.614Z,Sports,Amazon,10,88,44,142
+39,Canon EOS M50 Mark II Mirrorless Camera amz,5,16,35,51,46,97,2023-06-24T05:33:09.614Z,Beauty,Amazon,78,11,47,136
+40,Breville Barista Express Espresso Machine amz,3,98,33,63,81,144,2023-06-24T05:33:09.614Z,Beauty,Amazon,14,36,29,79
+41,LG OLED65CXPUA 65-Inch 4K Smart OLED TV amz,3,81,17,19,30,49,2023-06-24T05:33:09.614Z,Traveling,Amazon,97,74,92,263
+42,Fitbit Inspire 2 amz,2,93,11,22,45,67,2023-06-24T05:33:09.614Z,Mobiles,Amazon,68,13,49,130
+43,Apple MacBook Pro amz,5,6,34,39,85,124,2023-06-24T05:33:09.614Z,Traveling,Amazon,59,91,26,176
+44,Microsoft Xbox Series X amz,5,71,43,11,33,44,2023-06-24T05:33:09.614Z,Traveling,Amazon,99,19,75,193
+45,Bose SoundLink Revolve Portable Bluetooth Speaker amz,4,20,32,57,67,124,2023-06-24T05:33:09.614Z,Gaming,Amazon,46,81,35,162
+46,Samsung Galaxy Tab S7 amz,2,78,12,81,44,125,2023-06-24T05:33:09.614Z,Beauty,Amazon,63,85,11,159
+47,Ninja Foodi Deluxe Pressure Cooker amz,0,6,36,29,61,90,2023-06-24T05:33:09.614Z,Books,Amazon,50,1,92,143
+48,DJI Mavic Air 2 Drone amz,4,52,25,70,17,87,2023-06-24T05:33:09.614Z,Home Decor,Amazon,87,20,82,189
+49,Fitbit Aria Air Smart Scale amz,5,63,16,84,82,166,2023-06-24T05:33:09.614Z,Electronic,Amazon,67,81,37,185
+50,Sony A7 III Full-Frame Mirrorless Camera amz,4,63,18,62,25,87,2023-06-24T05:33:09.614Z,Beauty,Amazon,92,32,30,154
+51,Samsung 970 EVO Plus SSD amz,5,61,35,15,83,98,2023-06-24T05:33:09.614Z,Gaming,Amazon,32,9,17,58
+52,Logitech MX Master 3 Wireless Mouse amz,1,25,35,54,56,110,2023-06-24T05:33:09.614Z,Traveling,Amazon,17,96,51,164
+53,Apple iPhone 12 Pro Max amz,1,35,39,51,97,148,2023-06-24T05:33:09.614Z,Books,Amazon,96,89,63,248
+54,LG CX 55-Inch OLED 4K Smart TV amz,4,56,40,26,61,87,2023-06-24T05:33:09.614Z,Home Decor,Amazon,6,10,45,61
+55,Bose SoundSport Wireless Earbuds amz,5,11,19,53,76,129,2023-06-24T05:33:09.614Z,Electronic,Amazon,89,64,85,238
+56,Microsoft Surface Laptop 4 amz,1,70,40,55,26,81,2023-06-24T05:33:09.614Z,Traveling,Amazon,96,95,86,277
+57,Roku Streaming Stick+ amz,1,2,38,51,44,95,2023-06-24T05:33:09.614Z,Beauty,Amazon,70,59,79,208
+58,Anker Soundcore Liberty Air 2 Pro Earbuds amz,3,39,46,79,93,172,2023-06-24T05:33:09.614Z,Electronic,Amazon,98,86,88,272
+59,Canon EOS R6 Mirrorless Camera amz,2,29,40,71,8,79,2023-06-24T05:33:09.614Z,Traveling,Amazon,83,80,95,258
+60,Sony WF-1000XM4 True Wireless Earbuds amz,4,15,39,21,28,49,2023-06-24T05:33:09.614Z,Sports,Amazon,31,60,96,187
+61,Garmin Fenix 6 Pro amz,0,78,44,96,100,196,2023-06-24T05:33:09.614Z,Mobiles,Amazon,48,42,49,139
+62,LG 27UK850-W 27-Inch 4K Monitor amz,4,33,41,73,66,139,2023-06-24T05:33:09.614Z,Books,Amazon,45,97,19,161
+63,Crock-Pot Express Multi-Cooker amz,2,81,15,25,80,105,2023-06-24T05:33:09.614Z,Traveling,Amazon,38,40,65,143
+64,Samsung Galaxy S21 Ultra amz,5,54,19,46,47,93,2023-06-24T05:33:09.614Z,Traveling,Amazon,36,62,1,99
+65,ASUS ROG Strix G15 Gaming Laptop amz,3,6,45,71,0,71,2023-06-24T05:33:09.614Z,Home Decor,Amazon,13,46,28,87
+66,Fitbit Sense Advanced Smartwatch amz,1,14,15,42,25,67,2023-06-24T05:33:09.614Z,Sports,Amazon,56,9,64,129
+67,Sony X800H 55-Inch 4K Smart TV amz,4,40,41,8,94,102,2023-06-24T05:33:09.614Z,Electronic,Amazon,88,38,93,219
+68,Google Nest Cam Indoor Security Camera amz,0,13,30,5,59,64,2023-06-24T05:33:09.614Z,Sports,Amazon,55,49,5,109
+69,Breville Smart Oven Air amz,5,33,25,13,53,66,2023-06-24T05:33:09.614Z,Traveling,Amazon,68,73,17,158
+70,Beats Powerbeats Pro Wireless Earphones amz,3,13,18,25,42,67,2023-06-24T05:33:09.614Z,Toys,Amazon,69,20,3,92
+71,Bose Solo 5 TV Soundbar amz,1,73,49,21,2,23,2023-06-24T05:33:09.614Z,Sports,Amazon,18,7,27,52
+72,Apple iMac 27-Inch Retina 5K Display amz,2,81,32,17,87,104,2023-06-24T05:33:09.614Z,Electronic,Amazon,12,55,7,74
+73,NVIDIA GeForce RTX 3080 Graphics Card amz,2,20,20,17,48,65,2023-06-24T05:33:09.614Z,Sports,Amazon,59,48,16,123
+74,Nintendo Switch Lite amz,1,50,36,31,38,69,2023-06-24T05:33:09.614Z,Books,Amazon,51,98,28,177
+75,Jabra Elite 85t True Wireless Earbuds amz,4,63,20,30,12,42,2023-06-24T05:33:09.614Z,Daily life,Amazon,3,88,70,161
+76,Canon EOS 90D DSLR Camera amz,3,95,16,21,92,113,2023-06-24T05:33:09.614Z,Electronic,Amazon,1,15,25,41
+77,Samsung Galaxy S20 FE amz,5,76,29,47,52,99,2023-06-24T05:33:09.614Z,Sports,Amazon,32,16,51,99
+78,Logitech G502 HERO Gaming Mouse amz,1,21,28,16,29,45,2023-06-24T05:33:09.614Z,Electronic,Amazon,39,84,84,207
+79,LG OLED48C1 48-Inch 4K Smart OLED TV amz,4,7,39,31,31,62,2023-06-24T05:33:09.614Z,Home Decor,Amazon,49,22,8,79
+80,Dyson V11 Animal Cordless Vacuum Cleaner amz,5,68,12,61,24,85,2023-06-24T05:33:09.614Z,Electronic,Amazon,68,11,50,129
+81,Philips Hue White and Color Ambiance Smart Bulb amz,1,50,38,72,31,103,2023-06-24T05:33:09.614Z,Toys,Amazon,27,91,11,129
+82,Apple AirTag amz,3,93,22,97,14,111,2023-06-24T05:33:09.614Z,Sports,Amazon,37,76,80,193
+83,Razer BlackWidow Elite Mechanical Gaming Keyboard amz,2,51,12,9,29,38,2023-06-24T05:33:09.614Z,Books,Amazon,93,31,4,128
+84,Sony ZV-1 Compact Camera amz,4,1,26,54,34,88,2023-06-24T05:33:09.614Z,Traveling,Amazon,43,94,57,194
+85,Amazon Echo Show 10 (3rd generation) amz,0,52,32,73,6,79,2023-06-24T05:33:09.614Z,Sports,Amazon,49,39,78,166
+86,HP Pavilion 27-Inch FHD Monitor amz,4,91,38,53,37,90,2023-06-24T05:33:09.614Z,Home Decor,Amazon,4,86,36,126
+87,Bose QuietComfort Earbuds amz,3,19,29,83,54,137,2023-06-24T05:33:09.614Z,Electronic,Amazon,59,4,94,157
+88,Sony Alpha a6400 Mirrorless Camera amz,0,89,40,51,10,61,2023-06-24T05:33:09.614Z,Books,Amazon,63,56,30,149
+89,Garmin Instinct Solar Outdoor GPS Watch amz,3,80,46,49,22,71,2023-06-24T05:33:09.614Z,Books,Amazon,20,36,72,128
+90,Nintendo Switch Pro Controller amz,3,35,16,63,56,119,2023-06-24T05:33:09.614Z,Sports,Amazon,58,83,21,162
+91,Fitbit Flex 2 amz,3,83,23,0,74,74,2023-06-24T05:33:09.614Z,Gaming,Amazon,91,76,44,211
+92,Apple iPad Pro amz,0,84,35,24,82,106,2023-06-24T05:33:09.614Z,Beauty,Amazon,43,68,37,148
+93,Samsung QN90A 75-Inch Neo QLED 4K Smart TV amz,3,68,23,10,84,94,2023-06-24T05:33:09.614Z,Home Decor,Amazon,68,78,64,210
+94,Breville Joule Sous Vide amz,5,61,39,42,10,52,2023-06-24T05:33:09.614Z,Toys,Amazon,5,99,100,204
+95,Sony WH-1000XM3 Wireless Noise-Canceling Headphones amz,5,20,49,86,6,92,2023-06-24T05:33:09.614Z,Gaming,Amazon,37,39,16,92
+96,LG Gram 17-Inch Laptop amz,2,76,14,45,11,56,2023-06-24T05:33:09.614Z,Sports,Amazon,1,91,27,119
+97,Google Pixel 5 amz,1,9,13,52,73,125,2023-06-24T05:33:09.614Z,Traveling,Amazon,47,2,63,112
+98,Ring Stick Up Cam Battery amz,4,68,48,59,78,137,2023-06-24T05:33:09.614Z,Toys,Amazon,24,93,21,138
+99,KitchenAid Artisan Series Stand Mixer amz,5,50,26,58,21,79,2023-06-24T05:33:09.614Z,Mobiles,Amazon,34,20,79,133
+100,DJI Osmo Pocket Handheld Camera amz,1,79,28,32,39,71,2023-06-24T05:33:09.614Z,Books,Amazon,80,49,37,166
+101,Echo Dot (4th generation) ebay,4,82,19,83,36,119,2023-06-24T05:33:09.614Z,Sports,eBay,99,46,20,165
+102,Kindle Paperwhite ebay,5,72,36,76,72,148,2023-06-24T05:33:09.614Z,Mobiles,eBay,64,75,75,214
+103,Apple AirPods Pro ebay,0,95,38,57,47,104,2023-06-24T05:33:09.614Z,Books,eBay,1,60,50,111
+104,Instant Pot Duo ebay,5,84,40,93,70,163,2023-06-24T05:33:09.614Z,Electronic,eBay,95,13,95,203
+105,Fitbit Charge 4 ebay,0,97,39,52,19,71,2023-06-24T05:33:09.614Z,Beauty,eBay,22,51,89,162
+106,Sony WH-1000XM4 Wireless Headphones ebay,1,22,16,63,64,127,2023-06-24T05:33:09.614Z,Toys,eBay,17,14,61,92
+107,Samsung Galaxy Watch 4 ebay,3,91,43,68,31,99,2023-06-24T05:33:09.614Z,Sports,eBay,28,98,5,131
+108,Nintendo Switch ebay,1,30,15,32,29,61,2023-06-24T05:33:09.614Z,Beauty,eBay,36,50,89,175
+109,Philips Sonicare DiamondClean Toothbrush ebay,4,57,33,77,16,93,2023-06-24T05:33:09.614Z,Electronic,eBay,61,41,66,168
+110,Bose QuietComfort 35 II Wireless Headphones ebay,2,24,40,42,30,72,2023-06-24T05:33:09.614Z,Traveling,eBay,86,63,10,159
+111,Roomba Robot Vacuum ebay,1,15,46,19,90,109,2023-06-24T05:33:09.614Z,Daily life,eBay,97,96,11,204
+112,Anker PowerCore Portable Charger ebay,3,23,22,79,47,126,2023-06-24T05:33:09.614Z,Books,eBay,12,79,5,96
+113,GoPro Hero9 Black ebay,2,96,26,46,23,69,2023-06-24T05:33:09.614Z,Mobiles,eBay,86,46,71,203
+114,JBL Flip 5 Portable Speaker ebay,1,10,48,60,72,132,2023-06-24T05:33:09.614Z,Toys,eBay,38,37,21,96
+115,Apple Watch Series 6 ebay,4,11,46,68,73,141,2023-06-24T05:33:09.614Z,Toys,eBay,56,48,66,170
+116,Dyson Supersonic Hair Dryer ebay,3,26,11,42,95,137,2023-06-24T05:33:09.614Z,Gaming,eBay,29,5,12,46
+117,Ring Video Doorbell Pro ebay,4,1,36,26,38,64,2023-06-24T05:33:09.614Z,Toys,eBay,83,11,1,95
+118,Sony PlayStation 5 ebay,2,31,24,68,92,160,2023-06-24T05:33:09.614Z,Beauty,eBay,37,65,78,180
+119,Nikon D3500 DSLR Camera ebay,4,14,44,0,51,51,2023-06-24T05:33:09.614Z,Traveling,eBay,36,2,66,104
+120,Garmin Forerunner 245 GPS Running Watch ebay,1,69,28,88,61,149,2023-06-24T05:33:09.614Z,Daily life,eBay,73,65,49,187
+121,NutriBullet Pro Blender ebay,0,72,34,75,73,148,2023-06-24T05:33:09.614Z,Gaming,eBay,11,84,73,168
+122,Microsoft Surface Pro 7 ebay,5,97,16,80,98,178,2023-06-24T05:33:09.614Z,Electronic,eBay,21,89,97,207
+123,Weber Spirit II E-310 Gas Grill ebay,2,63,30,37,27,64,2023-06-24T05:33:09.614Z,Beauty,eBay,28,56,80,164
+124,Vitamix 5200 Blender ebay,1,51,11,45,93,138,2023-06-24T05:33:09.614Z,Electronic,eBay,13,92,52,157
+125,TCL 55-Inch 4K Smart TV ebay,0,50,39,79,61,140,2023-06-24T05:33:09.614Z,Electronic,eBay,57,89,59,205
+126,AncestryDNA Genetic Testing Kit ebay,5,84,37,91,90,181,2023-06-24T05:33:09.614Z,Daily life,eBay,67,27,39,133
+127,Cuisinart 14-Cup Food Processor ebay,1,38,24,85,35,120,2023-06-24T05:33:09.614Z,Home Decor,eBay,61,91,62,214
+128,Instant Pot Duo Crisp + Air Fryer ebay,1,23,44,69,60,129,2023-06-24T05:33:09.614Z,Traveling,eBay,25,22,90,137
+129,KitchenAid Stand Mixer ebay,3,79,35,36,0,36,2023-06-24T05:33:09.614Z,Electronic,eBay,66,64,67,197
+130,Fitbit Versa 3 ebay,2,90,34,59,82,141,2023-06-24T05:33:09.614Z,Electronic,eBay,31,13,67,111
+131,Apple iPad Air ebay,5,43,47,32,35,67,2023-06-24T05:33:09.614Z,Gaming,eBay,82,47,66,195
+132,Sony X900H 65-Inch TV ebay,1,93,20,0,33,33,2023-06-24T05:33:09.614Z,Beauty,eBay,29,13,55,97
+133,Garmin Venu 2S Fitness Smartwatch ebay,3,28,14,62,66,128,2023-06-24T05:33:09.614Z,Gaming,eBay,35,78,57,170
+134,Oculus Quest 2 VR Headset ebay,1,69,49,8,67,75,2023-06-24T05:33:09.614Z,Daily life,eBay,48,27,67,142
+135,iRobot Braava Jet M6 Robot Mop ebay,3,98,22,99,15,114,2023-06-24T05:33:09.614Z,Toys,eBay,50,63,49,162
+136,Samsung Galaxy Buds Pro ebay,3,56,31,84,20,104,2023-06-24T05:33:09.614Z,Toys,eBay,88,86,72,246
+137,All-New Fire HD 10 Tablet ebay,1,13,37,42,48,90,2023-06-24T05:33:09.614Z,Toys,eBay,89,100,51,240
+138,Beats Solo Pro Wireless Headphones ebay,1,69,11,43,21,64,2023-06-24T05:33:09.614Z,Beauty,eBay,10,17,67,94
+139,Canon EOS M50 Mark II Mirrorless Camera ebay,1,51,44,55,58,113,2023-06-24T05:33:09.614Z,Home Decor,eBay,61,70,29,160
+140,Breville Barista Express Espresso Machine ebay,4,91,25,94,82,176,2023-06-24T05:33:09.614Z,Mobiles,eBay,39,75,40,154
+141,LG OLED65CXPUA 65-Inch 4K Smart OLED TV ebay,0,10,49,23,88,111,2023-06-24T05:33:09.614Z,Gaming,eBay,30,39,56,125
+142,Fitbit Inspire 2 ebay,1,31,29,9,36,45,2023-06-24T05:33:09.614Z,Electronic,eBay,69,31,23,123
+143,Apple MacBook Pro ebay,5,20,12,0,53,53,2023-06-24T05:33:09.614Z,Books,eBay,13,27,25,65
+144,Microsoft Xbox Series X ebay,0,73,28,11,1,12,2023-06-24T05:33:09.614Z,Electronic,eBay,33,23,83,139
+145,Bose SoundLink Revolve Portable Bluetooth Speaker ebay,1,32,14,85,36,121,2023-06-24T05:33:09.614Z,Electronic,eBay,93,95,11,199
+146,Samsung Galaxy Tab S7 ebay,3,92,14,56,40,96,2023-06-24T05:33:09.614Z,Traveling,eBay,5,51,55,111
+147,Ninja Foodi Deluxe Pressure Cooker ebay,1,37,13,75,46,121,2023-06-24T05:33:09.614Z,Home Decor,eBay,22,51,92,165
+148,DJI Mavic Air 2 Drone ebay,4,51,14,71,36,107,2023-06-24T05:33:09.614Z,Traveling,eBay,17,89,70,176
+149,Fitbit Aria Air Smart Scale ebay,0,24,15,77,35,112,2023-06-24T05:33:09.614Z,Electronic,eBay,33,66,81,180
+150,Sony A7 III Full-Frame Mirrorless Camera ebay,2,53,14,26,91,117,2023-06-24T05:33:09.614Z,Electronic,eBay,59,61,100,220
+151,Samsung 970 EVO Plus SSD ebay,5,52,15,15,93,108,2023-06-24T05:33:09.614Z,Daily life,eBay,98,17,41,156
+152,Logitech MX Master 3 Wireless Mouse ebay,1,10,27,58,57,115,2023-06-24T05:33:09.614Z,Books,eBay,51,27,70,148
+153,Apple iPhone 12 Pro Max ebay,3,93,25,12,3,15,2023-06-24T05:33:09.614Z,Books,eBay,61,38,80,179
+154,LG CX 55-Inch OLED 4K Smart TV ebay,2,89,29,4,0,4,2023-06-24T05:33:09.614Z,Mobiles,eBay,44,58,42,144
+155,Bose SoundSport Wireless Earbuds ebay,4,75,33,27,86,113,2023-06-24T05:33:09.614Z,Mobiles,eBay,5,13,50,68
+156,Microsoft Surface Laptop 4 ebay,1,31,26,94,74,168,2023-06-24T05:33:09.614Z,Mobiles,eBay,13,41,41,95
+157,Roku Streaming Stick+ ebay,2,54,47,86,36,122,2023-06-24T05:33:09.614Z,Books,eBay,87,55,70,212
+158,Anker Soundcore Liberty Air 2 Pro Earbuds ebay,3,61,12,32,28,60,2023-06-24T05:33:09.614Z,Electronic,eBay,42,86,20,148
+159,Canon EOS R6 Mirrorless Camera ebay,3,44,38,72,47,119,2023-06-24T05:33:09.614Z,Books,eBay,50,8,96,154
+160,Sony WF-1000XM4 True Wireless Earbuds ebay,1,44,20,2,72,74,2023-06-24T05:33:09.614Z,Beauty,eBay,78,66,41,185
+161,Garmin Fenix 6 Pro ebay,1,90,30,46,85,131,2023-06-24T05:33:09.614Z,Toys,eBay,34,64,53,151
+162,LG 27UK850-W 27-Inch 4K Monitor ebay,4,77,15,11,55,66,2023-06-24T05:33:09.614Z,Books,eBay,8,23,72,103
+163,Crock-Pot Express Multi-Cooker ebay,0,77,15,90,85,175,2023-06-24T05:33:09.614Z,Electronic,eBay,34,52,50,136
+164,Samsung Galaxy S21 Ultra ebay,4,20,37,52,40,92,2023-06-24T05:33:09.614Z,Mobiles,eBay,57,65,84,206
+165,ASUS ROG Strix G15 Gaming Laptop ebay,0,89,21,18,95,113,2023-06-24T05:33:09.614Z,Daily life,eBay,41,68,65,174
+166,Fitbit Sense Advanced Smartwatch ebay,1,86,32,88,62,150,2023-06-24T05:33:09.614Z,Home Decor,eBay,52,4,19,75
+167,Sony X800H 55-Inch 4K Smart TV ebay,4,55,29,82,86,168,2023-06-24T05:33:09.614Z,Electronic,eBay,91,36,89,216
+168,Google Nest Cam Indoor Security Camera ebay,4,45,15,13,55,68,2023-06-24T05:33:09.614Z,Daily life,eBay,34,12,84,130
+169,Breville Smart Oven Air ebay,3,59,39,67,1,68,2023-06-24T05:33:09.614Z,Daily life,eBay,11,80,51,142
+170,Beats Powerbeats Pro Wireless Earphones ebay,0,14,42,33,9,42,2023-06-24T05:33:09.614Z,Home Decor,eBay,62,15,31,108
+171,Bose Solo 5 TV Soundbar ebay,4,47,37,58,61,119,2023-06-24T05:33:09.614Z,Home Decor,eBay,4,41,34,79
+172,Apple iMac 27-Inch Retina 5K Display ebay,1,71,30,50,13,63,2023-06-24T05:33:09.614Z,Home Decor,eBay,30,76,39,145
+173,NVIDIA GeForce RTX 3080 Graphics Card ebay,4,40,33,5,55,60,2023-06-24T05:33:09.614Z,Gaming,eBay,63,93,12,168
+174,Nintendo Switch Lite ebay,1,77,29,39,20,59,2023-06-24T05:33:09.614Z,Traveling,eBay,21,71,69,161
+175,Jabra Elite 85t True Wireless Earbuds ebay,4,87,17,66,97,163,2023-06-24T05:33:09.614Z,Traveling,eBay,61,54,29,144
+176,Canon EOS 90D DSLR Camera ebay,2,78,36,65,29,94,2023-06-24T05:33:09.614Z,Beauty,eBay,47,62,24,133
+177,Samsung Galaxy S20 FE ebay,5,94,31,71,72,143,2023-06-24T05:33:09.614Z,Books,eBay,56,68,25,149
+178,Logitech G502 HERO Gaming Mouse ebay,0,92,10,3,63,66,2023-06-24T05:33:09.614Z,Home Decor,eBay,72,23,76,171
+179,LG OLED48C1 48-Inch 4K Smart OLED TV ebay,2,63,39,8,73,81,2023-06-24T05:33:09.614Z,Toys,eBay,95,26,89,210
+180,Dyson V11 Animal Cordless Vacuum Cleaner ebay,1,63,24,39,57,96,2023-06-24T05:33:09.614Z,Books,eBay,72,72,19,163
+181,Philips Hue White and Color Ambiance Smart Bulb ebay,4,10,22,17,17,34,2023-06-24T05:33:09.614Z,Traveling,eBay,7,63,98,168
+182,Apple AirTag ebay,2,87,15,51,29,80,2023-06-24T05:33:09.614Z,Home Decor,eBay,81,20,54,155
+183,Razer BlackWidow Elite Mechanical Gaming Keyboard ebay,3,79,41,22,18,40,2023-06-24T05:33:09.614Z,Home Decor,eBay,35,95,54,184
+184,Sony ZV-1 Compact Camera ebay,0,96,49,17,43,60,2023-06-24T05:33:09.614Z,Books,eBay,33,11,92,136
+185,Amazon Echo Show 10 (3rd generation) ebay,1,44,11,16,15,31,2023-06-24T05:33:09.614Z,Beauty,eBay,90,75,49,214
+186,HP Pavilion 27-Inch FHD Monitor ebay,0,62,26,49,44,93,2023-06-24T05:33:09.614Z,Books,eBay,79,13,14,106
+187,Bose QuietComfort Earbuds ebay,4,10,13,23,15,38,2023-06-24T05:33:09.614Z,Electronic,eBay,4,44,76,124
+188,Sony Alpha a6400 Mirrorless Camera ebay,1,34,19,36,26,62,2023-06-24T05:33:09.614Z,Gaming,eBay,27,97,54,178
+189,Garmin Instinct Solar Outdoor GPS Watch ebay,3,85,47,22,3,25,2023-06-24T05:33:09.614Z,Gaming,eBay,42,38,45,125
+190,Nintendo Switch Pro Controller ebay,3,87,29,22,91,113,2023-06-24T05:33:09.614Z,Books,eBay,51,40,24,115
+191,Fitbit Flex 2 ebay,4,46,30,99,20,119,2023-06-24T05:33:09.614Z,Beauty,eBay,21,19,41,81
+192,Apple iPad Pro ebay,1,55,49,88,44,132,2023-06-24T05:33:09.614Z,Mobiles,eBay,28,20,16,64
+193,Samsung QN90A 75-Inch Neo QLED 4K Smart TV ebay,3,44,36,58,95,153,2023-06-24T05:33:09.614Z,Toys,eBay,41,75,69,185
+194,Breville Joule Sous Vide ebay,0,57,32,93,99,192,2023-06-24T05:33:09.614Z,Daily life,eBay,54,86,78,218
+195,Sony WH-1000XM3 Wireless Noise-Canceling Headphones ebay,5,52,13,40,92,132,2023-06-24T05:33:09.614Z,Gaming,eBay,45,61,22,128
+196,LG Gram 17-Inch Laptop ebay,3,45,45,84,91,175,2023-06-24T05:33:09.614Z,Toys,eBay,82,89,6,177
+197,Google Pixel 5 ebay,4,49,44,17,74,91,2023-06-24T05:33:09.614Z,Traveling,eBay,6,67,37,110
+198,Ring Stick Up Cam Battery ebay,1,24,36,48,92,140,2023-06-24T05:33:09.614Z,Gaming,eBay,8,45,67,120
+199,KitchenAid Artisan Series Stand Mixer ebay,1,16,36,11,66,77,2023-06-24T05:33:09.614Z,Home Decor,eBay,68,21,41,130
+200,DJI Osmo Pocket Handheld Camera ebay,0,89,18,17,60,77,2023-06-24T05:33:09.614Z,Books,eBay,23,8,15,46
+201,Echo Dot (4th generation) fc,2,52,11,52,68,120,2023-06-24T05:33:09.614Z,Mobiles,Flipkart,45,57,57,159
+202,Kindle Paperwhite fc,2,61,23,64,54,118,2023-06-24T05:33:09.614Z,Traveling,Flipkart,30,70,47,147
+203,Apple AirPods Pro fc,1,20,39,11,68,79,2023-06-24T05:33:09.614Z,Electronic,Flipkart,77,56,67,200
+204,Instant Pot Duo fc,3,81,43,75,73,148,2023-06-24T05:33:09.614Z,Toys,Flipkart,8,82,32,122
+205,Fitbit Charge 4 fc,0,99,43,50,14,64,2023-06-24T05:33:09.614Z,Sports,Flipkart,17,91,2,110
+206,Sony WH-1000XM4 Wireless Headphones fc,5,50,20,36,30,66,2023-06-24T05:33:09.614Z,Sports,Flipkart,92,78,15,185
+207,Samsung Galaxy Watch 4 fc,5,37,37,36,48,84,2023-06-24T05:33:09.614Z,Gaming,Flipkart,27,82,84,193
+208,Nintendo Switch fc,3,29,30,24,24,48,2023-06-24T05:33:09.614Z,Toys,Flipkart,27,23,36,86
+209,Philips Sonicare DiamondClean Toothbrush fc,2,13,29,97,96,193,2023-06-24T05:33:09.614Z,Electronic,Flipkart,24,32,44,100
+210,Bose QuietComfort 35 II Wireless Headphones fc,5,84,29,47,86,133,2023-06-24T05:33:09.614Z,Toys,Flipkart,37,44,51,132
+211,Roomba Robot Vacuum fc,5,59,43,35,15,50,2023-06-24T05:33:09.614Z,Electronic,Flipkart,22,73,66,161
+212,Anker PowerCore Portable Charger fc,1,50,45,73,74,147,2023-06-24T05:33:09.614Z,Mobiles,Flipkart,47,20,44,111
+213,GoPro Hero9 Black fc,2,44,47,35,82,117,2023-06-24T05:33:09.614Z,Traveling,Flipkart,2,17,19,38
+214,JBL Flip 5 Portable Speaker fc,2,45,29,63,65,128,2023-06-24T05:33:09.614Z,Gaming,Flipkart,75,65,90,230
+215,Apple Watch Series 6 fc,4,43,49,94,55,149,2023-06-24T05:33:09.614Z,Gaming,Flipkart,65,6,20,91
+216,Dyson Supersonic Hair Dryer fc,2,81,27,73,4,77,2023-06-24T05:33:09.614Z,Beauty,Flipkart,92,52,18,162
+217,Ring Video Doorbell Pro fc,3,66,38,26,38,64,2023-06-24T05:33:09.614Z,Beauty,Flipkart,16,34,81,131
+218,Sony PlayStation 5 fc,5,38,29,41,32,73,2023-06-24T05:33:09.614Z,Electronic,Flipkart,40,75,85,200
+219,Nikon D3500 DSLR Camera fc,2,37,37,48,2,50,2023-06-24T05:33:09.614Z,Toys,Flipkart,55,45,74,174
+220,Garmin Forerunner 245 GPS Running Watch fc,2,20,35,6,90,96,2023-06-24T05:33:09.614Z,Electronic,Flipkart,13,58,69,140
+221,NutriBullet Pro Blender fc,2,38,21,75,95,170,2023-06-24T05:33:09.614Z,Mobiles,Flipkart,19,94,78,191
+222,Microsoft Surface Pro 7 fc,3,37,30,59,24,83,2023-06-24T05:33:09.614Z,Books,Flipkart,91,25,77,193
+223,Weber Spirit II E-310 Gas Grill fc,3,7,18,15,36,51,2023-06-24T05:33:09.614Z,Gaming,Flipkart,70,48,21,139
+224,Vitamix 5200 Blender fc,2,69,25,80,8,88,2023-06-24T05:33:09.614Z,Toys,Flipkart,70,54,25,149
+225,TCL 55-Inch 4K Smart TV fc,0,52,15,66,88,154,2023-06-24T05:33:09.614Z,Books,Flipkart,84,75,51,210
+226,AncestryDNA Genetic Testing Kit fc,3,66,15,77,56,133,2023-06-24T05:33:09.614Z,Beauty,Flipkart,25,10,79,114
+227,Cuisinart 14-Cup Food Processor fc,4,7,28,61,17,78,2023-06-24T05:33:09.614Z,Gaming,Flipkart,91,6,83,180
+228,Instant Pot Duo Crisp + Air Fryer fc,3,3,46,18,96,114,2023-06-24T05:33:09.615Z,Books,Flipkart,37,56,65,158
+229,KitchenAid Stand Mixer fc,2,28,42,100,31,131,2023-06-24T05:33:09.615Z,Mobiles,Flipkart,86,27,87,200
+230,Fitbit Versa 3 fc,1,60,19,75,71,146,2023-06-24T05:33:09.615Z,Traveling,Flipkart,9,44,60,113
+231,Apple iPad Air fc,3,61,19,24,2,26,2023-06-24T05:33:09.615Z,Traveling,Flipkart,42,66,13,121
+232,Sony X900H 65-Inch TV fc,0,12,21,6,4,10,2023-06-24T05:33:09.615Z,Sports,Flipkart,67,74,38,179
+233,Garmin Venu 2S Fitness Smartwatch fc,5,17,21,90,67,157,2023-06-24T05:33:09.615Z,Beauty,Flipkart,6,62,24,92
+234,Oculus Quest 2 VR Headset fc,4,49,27,42,57,99,2023-06-24T05:33:09.615Z,Traveling,Flipkart,35,38,89,162
+235,iRobot Braava Jet M6 Robot Mop fc,1,81,48,76,4,80,2023-06-24T05:33:09.615Z,Books,Flipkart,28,4,80,112
+236,Samsung Galaxy Buds Pro fc,0,15,29,63,1,64,2023-06-24T05:33:09.615Z,Books,Flipkart,72,26,48,146
+237,All-New Fire HD 10 Tablet fc,0,21,36,84,65,149,2023-06-24T05:33:09.615Z,Gaming,Flipkart,83,77,38,198
+238,Beats Solo Pro Wireless Headphones fc,1,49,14,19,41,60,2023-06-24T05:33:09.615Z,Sports,Flipkart,43,69,9,121
+239,Canon EOS M50 Mark II Mirrorless Camera fc,2,29,43,43,2,45,2023-06-24T05:33:09.615Z,Traveling,Flipkart,5,24,62,91
+240,Breville Barista Express Espresso Machine fc,1,96,47,86,90,176,2023-06-24T05:33:09.615Z,Traveling,Flipkart,46,8,25,79
+241,LG OLED65CXPUA 65-Inch 4K Smart OLED TV fc,4,65,10,93,51,144,2023-06-24T05:33:09.615Z,Sports,Flipkart,25,93,41,159
+242,Fitbit Inspire 2 fc,2,51,34,19,30,49,2023-06-24T05:33:09.615Z,Gaming,Flipkart,11,85,41,137
+243,Apple MacBook Pro fc,4,44,48,49,37,86,2023-06-24T05:33:09.615Z,Daily life,Flipkart,19,65,85,169
+244,Microsoft Xbox Series X fc,0,51,22,70,85,155,2023-06-24T05:33:09.615Z,Beauty,Flipkart,98,73,51,222
+245,Bose SoundLink Revolve Portable Bluetooth Speaker fc,4,43,45,52,15,67,2023-06-24T05:33:09.615Z,Toys,Flipkart,39,53,9,101
+246,Samsung Galaxy Tab S7 fc,2,19,33,47,34,81,2023-06-24T05:33:09.615Z,Mobiles,Flipkart,56,18,20,94
+247,Ninja Foodi Deluxe Pressure Cooker fc,2,31,44,68,99,167,2023-06-24T05:33:09.615Z,Gaming,Flipkart,73,55,15,143
+248,DJI Mavic Air 2 Drone fc,5,85,21,80,46,126,2023-06-24T05:33:09.615Z,Home Decor,Flipkart,78,77,46,201
+249,Fitbit Aria Air Smart Scale fc,5,22,10,31,49,80,2023-06-24T05:33:09.615Z,Books,Flipkart,47,78,18,143
+250,Sony A7 III Full-Frame Mirrorless Camera fc,5,84,33,67,78,145,2023-06-24T05:33:09.615Z,Beauty,Flipkart,23,55,95,173
+251,Samsung 970 EVO Plus SSD fc,4,95,20,79,54,133,2023-06-24T05:33:09.615Z,Toys,Flipkart,92,73,12,177
+252,Logitech MX Master 3 Wireless Mouse fc,0,42,50,13,50,63,2023-06-24T05:33:09.615Z,Electronic,Flipkart,63,69,14,146
+253,Apple iPhone 12 Pro Max fc,5,96,14,52,8,60,2023-06-24T05:33:09.615Z,Sports,Flipkart,92,64,85,241
+254,LG CX 55-Inch OLED 4K Smart TV fc,4,3,24,80,100,180,2023-06-24T05:33:09.615Z,Daily life,Flipkart,69,54,7,130
+255,Bose SoundSport Wireless Earbuds fc,1,11,50,3,60,63,2023-06-24T05:33:09.615Z,Traveling,Flipkart,78,47,23,148
+256,Microsoft Surface Laptop 4 fc,4,25,41,91,79,170,2023-06-24T05:33:09.615Z,Electronic,Flipkart,56,36,12,104
+257,Roku Streaming Stick+ fc,2,96,50,33,76,109,2023-06-24T05:33:09.615Z,Mobiles,Flipkart,3,50,96,149
+258,Anker Soundcore Liberty Air 2 Pro Earbuds fc,1,59,13,5,48,53,2023-06-24T05:33:09.615Z,Home Decor,Flipkart,75,41,74,190
+259,Canon EOS R6 Mirrorless Camera fc,3,33,49,99,5,104,2023-06-24T05:33:09.615Z,Traveling,Flipkart,50,94,69,213
+260,Sony WF-1000XM4 True Wireless Earbuds fc,4,72,17,23,49,72,2023-06-24T05:33:09.615Z,Mobiles,Flipkart,55,71,76,202
+261,Garmin Fenix 6 Pro fc,2,27,11,21,68,89,2023-06-24T05:33:09.615Z,Gaming,Flipkart,89,11,72,172
+262,LG 27UK850-W 27-Inch 4K Monitor fc,1,26,42,9,50,59,2023-06-24T05:33:09.615Z,Beauty,Flipkart,63,23,44,130
+263,Crock-Pot Express Multi-Cooker fc,1,77,41,86,14,100,2023-06-24T05:33:09.615Z,Gaming,Flipkart,65,63,24,152
+264,Samsung Galaxy S21 Ultra fc,4,77,13,81,69,150,2023-06-24T05:33:09.615Z,Electronic,Flipkart,85,22,87,194
+265,ASUS ROG Strix G15 Gaming Laptop fc,2,32,18,56,82,138,2023-06-24T05:33:09.615Z,Daily life,Flipkart,56,62,9,127
+266,Fitbit Sense Advanced Smartwatch fc,5,77,29,85,1,86,2023-06-24T05:33:09.615Z,Gaming,Flipkart,50,33,32,115
+267,Sony X800H 55-Inch 4K Smart TV fc,5,15,47,51,66,117,2023-06-24T05:33:09.615Z,Daily life,Flipkart,71,83,2,156
+268,Google Nest Cam Indoor Security Camera fc,5,91,44,99,4,103,2023-06-24T05:33:09.615Z,Gaming,Flipkart,16,95,81,192
+269,Breville Smart Oven Air fc,5,31,23,48,1,49,2023-06-24T05:33:09.615Z,Mobiles,Flipkart,82,4,56,142
+270,Beats Powerbeats Pro Wireless Earphones fc,2,49,39,67,87,154,2023-06-24T05:33:09.615Z,Beauty,Flipkart,57,29,31,117
+271,Bose Solo 5 TV Soundbar fc,5,42,44,30,70,100,2023-06-24T05:33:09.615Z,Sports,Flipkart,86,68,58,212
+272,Apple iMac 27-Inch Retina 5K Display fc,3,21,42,32,94,126,2023-06-24T05:33:09.615Z,Traveling,Flipkart,79,19,55,153
+273,NVIDIA GeForce RTX 3080 Graphics Card fc,2,8,29,75,12,87,2023-06-24T05:33:09.615Z,Books,Flipkart,61,57,79,197
+274,Nintendo Switch Lite fc,1,92,46,80,78,158,2023-06-24T05:33:09.615Z,Toys,Flipkart,93,80,81,254
+275,Jabra Elite 85t True Wireless Earbuds fc,0,40,19,71,3,74,2023-06-24T05:33:09.615Z,Gaming,Flipkart,34,7,79,120
+276,Canon EOS 90D DSLR Camera fc,3,74,22,54,43,97,2023-06-24T05:33:09.615Z,Traveling,Flipkart,47,48,1,96
+277,Samsung Galaxy S20 FE fc,4,17,44,4,55,59,2023-06-24T05:33:09.615Z,Sports,Flipkart,72,49,18,139
+278,Logitech G502 HERO Gaming Mouse fc,0,49,21,93,45,138,2023-06-24T05:33:09.615Z,Books,Flipkart,7,52,75,134
+279,LG OLED48C1 48-Inch 4K Smart OLED TV fc,2,96,45,29,40,69,2023-06-24T05:33:09.615Z,Sports,Flipkart,38,49,14,101
+280,Dyson V11 Animal Cordless Vacuum Cleaner fc,3,31,43,24,10,34,2023-06-24T05:33:09.615Z,Toys,Flipkart,47,71,19,137
+281,Philips Hue White and Color Ambiance Smart Bulb fc,3,62,42,42,11,53,2023-06-24T05:33:09.615Z,Sports,Flipkart,86,79,85,250
+282,Apple AirTag fc,4,26,28,62,76,138,2023-06-24T05:33:09.615Z,Books,Flipkart,69,4,70,143
+283,Razer BlackWidow Elite Mechanical Gaming Keyboard fc,1,32,50,49,71,120,2023-06-24T05:33:09.615Z,Traveling,Flipkart,70,67,24,161
+284,Sony ZV-1 Compact Camera fc,2,58,43,37,56,93,2023-06-24T05:33:09.615Z,Gaming,Flipkart,6,48,44,98
+285,Amazon Echo Show 10 (3rd generation) fc,3,63,41,83,73,156,2023-06-24T05:33:09.615Z,Books,Flipkart,44,97,86,227
+286,HP Pavilion 27-Inch FHD Monitor fc,1,18,40,49,78,127,2023-06-24T05:33:09.615Z,Traveling,Flipkart,13,72,88,173
+287,Bose QuietComfort Earbuds fc,5,42,27,54,94,148,2023-06-24T05:33:09.615Z,Books,Flipkart,98,24,28,150
+288,Sony Alpha a6400 Mirrorless Camera fc,1,56,14,0,53,53,2023-06-24T05:33:09.615Z,Toys,Flipkart,95,72,72,239
+289,Garmin Instinct Solar Outdoor GPS Watch fc,4,35,17,12,80,92,2023-06-24T05:33:09.615Z,Daily life,Flipkart,84,5,47,136
+290,Nintendo Switch Pro Controller fc,0,9,41,49,33,82,2023-06-24T05:33:09.615Z,Daily life,Flipkart,69,51,13,133
+291,Fitbit Flex 2 fc,2,84,29,90,82,172,2023-06-24T05:33:09.615Z,Electronic,Flipkart,94,57,34,185
+292,Apple iPad Pro fc,0,36,46,38,90,128,2023-06-24T05:33:09.615Z,Toys,Flipkart,9,48,23,80
+293,Samsung QN90A 75-Inch Neo QLED 4K Smart TV fc,5,57,25,79,8,87,2023-06-24T05:33:09.615Z,Sports,Flipkart,80,100,79,259
+294,Breville Joule Sous Vide fc,3,97,43,86,92,178,2023-06-24T05:33:09.615Z,Sports,Flipkart,29,10,60,99
+295,Sony WH-1000XM3 Wireless Noise-Canceling Headphones fc,5,60,19,51,49,100,2023-06-24T05:33:09.615Z,Daily life,Flipkart,4,11,48,63
+296,LG Gram 17-Inch Laptop fc,2,76,16,64,60,124,2023-06-24T05:33:09.615Z,Electronic,Flipkart,99,8,4,111
+297,Google Pixel 5 fc,3,71,33,25,32,57,2023-06-24T05:33:09.615Z,Beauty,Flipkart,64,83,98,245
+298,Ring Stick Up Cam Battery fc,4,37,50,49,22,71,2023-06-24T05:33:09.615Z,Books,Flipkart,74,15,28,117
+299,KitchenAid Artisan Series Stand Mixer fc,4,97,19,42,86,128,2023-06-24T05:33:09.615Z,Electronic,Flipkart,32,85,29,146
+300,DJI Osmo Pocket Handheld Camera fc,4,1,22,59,52,111,2023-06-24T05:33:09.615Z,Daily life,Flipkart,92,75,47,214
